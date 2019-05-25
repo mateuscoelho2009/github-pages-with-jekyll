@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Mateus Coelho
+###### Welcome to my portfolio! Feel free to navigate!
 
-I'm glad you are here. I plan to talk about ...
+## Who Am I?
+
+I am a **computer engineering** student at **ITA (Aeronautics Technology Institute)** in Brazil.
